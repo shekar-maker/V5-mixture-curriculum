@@ -104,9 +104,9 @@ so it carries a 1.69-epoch repetition factor — acceptable, and cheaper than sy
 repetition beyond 3 epochs or through self-generated CoT, and I would rather spend the marginal token on
 verified STEM than on unverified reasoning.
 
-**Long-context 5.9%.** See §5 — most of this lane is *constructed*, not collected.
+**Long-context 5.9%.** See §6 — most of this lane is *constructed*, not collected.
 
-**Agentic 3.45%.** The hardest number in the plan, and the one I have deliberately kept small. See §4.
+**Agentic 4%.** The hardest number in the plan, and the one I have deliberately kept small. See §4.
 
 ---
 
